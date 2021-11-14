@@ -1,1 +1,28 @@
-/* Write your CSS here! */
+body {
+  margin: 8px;
+  padding: 8px;
+  display: block;
+  background: rgb(34, 193, 195);
+  background: linear-gradient(
+    90deg,
+    rgba(34, 193, 195, 1) 0%,
+    rgba(45, 145, 253, 1) 65%
+  );
+}
+
+img {
+  width: 400px;
+}
+
+figcaption {
+  font-size: 0.875em;
+  color: #2f3438;
+}
+
+.funParagraph {
+  color: green;
+}
+
+#mainHeading {
+  color: red;
+}
