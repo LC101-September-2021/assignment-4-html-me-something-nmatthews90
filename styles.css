@@ -19,6 +19,10 @@ figcaption {
   color: #2f3438;
 }
 
+.funParagraph {
+  color: green;
+}
+
 .content {
   max-width: 1200px;
   margin: auto;
@@ -30,7 +34,4 @@ figcaption {
 }
 #testP {
   font-weight: bold;
-}
-.funParagraph {
-  color: green;
 }
