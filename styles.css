@@ -14,6 +14,11 @@ img {
   width: 400px;
 }
 
+figcaption {
+  font-size: 0.875em;
+  color: #2f3438;
+}
+
 .content {
   max-width: 1200px;
   margin: auto;
