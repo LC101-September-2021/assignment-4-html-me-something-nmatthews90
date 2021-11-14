@@ -2,11 +2,20 @@ body {
   margin: 8px;
   padding: 8px;
   display: block;
-  max-width: 1300px;
+  background: rgb(34, 193, 195);
+  background: linear-gradient(
+    90deg,
+    rgba(34, 193, 195, 1) 0%,
+    rgba(45, 145, 253, 1) 65%
+  );
+}
+
+img {
+  width: 500px;
 }
 
 .content {
-  max-width: 500px;
+  max-width: 1200px;
   margin: auto;
 }
 
